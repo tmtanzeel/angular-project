@@ -1,0 +1,33 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #222222;
+  color: white;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.first {
+  font-size: 20px;
+  font-family: 'Muli', sans-serif;
+}
+
+.second {
+  font-size: 20px;
+  font-family: 'Muli', sans-serif;
+  color: salmon;
+}
+
+.third {
+  font-size: 20px;
+  font-family: 'Muli', sans-serif;
+}
+
+.fourth {
+  font-size: 20px;
+  font-family: 'Muli', sans-serif;
+  color: salmon;
+}
